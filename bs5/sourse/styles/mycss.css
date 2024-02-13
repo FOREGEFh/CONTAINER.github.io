@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest Riot&display=swap');
+
+body {
+    font-family: Protest Riot, serif;
+    background: linear-gradient(90deg, #1e00ff 1%, #ff0000 99%);
+}
+
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(125, 125, 125);
+}
+
+.navbar-brand img {
+    width: 45px;
+}
+
+.navbar-toggler {
+    background-color: rgb(125, 125, 125);
+}
+.sidebar {
+    color: lightblue;
+    background: linear-gradient(90deg, #00b271 1%, #0429ff 99%);
+}
+.card {
+    background: linear-gradient(90deg, #dfef0b 1%, #181818 99%);
+    color: lightblue;
+}
+
+.card a {
+    text-decoration: none;
+    color: lightblue;
+}
